@@ -1,4 +1,4 @@
-# MimiC
+# HCCT
 
 This repo includes the codes for paper [How to Collaborate: Towards Maximizing the Generalization Performance in Cross-Silo Federated Learning](https://arxiv.org/abs/2401.13236), under viewed by *Transactions on Mobile Computing*.
 
